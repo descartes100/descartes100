@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am
 
-### I am always learning and building!
+### - A self-taught programmer
+
+### - A passionate learner and builder
 
 ![descartes100's GitHub stats](https://github-readme-stats.vercel.app/api?username=descartes100&show_icons=true&theme=tokyonight)
 
