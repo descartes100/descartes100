@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am always learning and building!
+
 ![descartes100's GitHub stats](https://github-readme-stats.vercel.app/api?username=descartes100&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descartes100&layout=compact&exclude_repo=Stock-Analysis-with-PCA,Maximum-sharp-ratio-Minimum-variance,Lasso-in-Finance&hide=CSS)](https://github.com/descartes100/github-readme-stats)
