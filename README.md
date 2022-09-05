@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am always learning and building!
+### I am always learning and building!
 
 ![descartes100's GitHub stats](https://github-readme-stats.vercel.app/api?username=descartes100&show_icons=true&theme=tokyonight)
 
