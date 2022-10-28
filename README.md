@@ -1,8 +1,8 @@
-### Hi there 👋 I am
+### Hi there 👋 
 
-### - A self-taught programmer
+- 🔭 Tiktok CN Blue Team member
+- 🌱 Learning all the things about security and web3
 
-### - A passionate learner and builder
 
 ![descartes100's GitHub stats](https://github-readme-stats.vercel.app/api?username=descartes100&show_icons=true&theme=tokyonight)
 
