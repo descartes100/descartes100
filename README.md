@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 Tiktok CN Blue Team member
+- 🔭 Tiktok CN Red Team member
 - 🌱 Learning all the things about security and web3
 
 
