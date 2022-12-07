@@ -1,9 +1,7 @@
-### Hi there 👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learning+all+the+things+about+web3+and+security." alt="Typing SVG" /></a>
 
-- 🔭 Tiktok CN Red Team member
-- 🌱 Learning all the things about security and web3
 
-![descartes100's GitHub stats](https://stats.justsong.cn/api/github?username=descartes100&theme=dark)
+[![descartes100's github stats](https://github-readme-stats.vercel.app/api?username=descartes100&hide=prs)](https://github.com/descartes100)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descartes100&layout=compact&exclude_repo=Stock-Analysis-with-PCA,Maximum-sharp-ratio-Minimum-variance,Lasso-in-Finance&hide=CSS)](https://github.com/descartes100/github-readme-stats)
