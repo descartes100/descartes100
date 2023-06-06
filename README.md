@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+and+security." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" /></a>
 
 
 [![descartes100's github stats](https://github-readme-stats.vercel.app/api?username=descartes100&hide=prs)](https://github.com/descartes100)
