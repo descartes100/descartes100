@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" /></a>
 
 
-[![descartes100's github stats](https://github-readme-stats.vercel.app/api?username=descartes100&hide=prs)](https://github.com/descartes100)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=descartes100&theme=tokyonight)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descartes100&layout=compact&exclude_repo=Stock-Analysis-with-PCA,Maximum-sharp-ratio-Minimum-variance,Lasso-in-Finance&hide=CSS)](https://github.com/descartes100/github-readme-stats)
