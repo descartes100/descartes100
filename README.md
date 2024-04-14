@@ -1,6 +1,5 @@
-<a href="https://portfolio-descartes100.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" />
-</a>  
-✨ *Click👆 to see my portfolio website!* ✨
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=descartes100&theme=tokyonight)](https://git.io/streak-stats)
 
