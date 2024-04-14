@@ -1,4 +1,4 @@
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" />
+<a href="https://zhang-leis-soul-script.gitbook.io/doc"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+,+security+and+AI." alt="Typing SVG" />
 </a>
 
 ✨ *Click👆 to see my website!* ✨
