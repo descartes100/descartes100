@@ -5,8 +5,23 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=descartes100&theme=tokyonight)](https://git.io/streak-stats)
 
+### Programming languages:
+![Static Badge](https://img.shields.io/badge/Solidity-brown?logo=solidity&logoColor=brown&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=yellow&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-%23007acc?logo=typescript&logoColor=%23007acc&labelColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descartes100&layout=compact&exclude_repo=Stock-Analysis-with-PCA,Maximum-sharp-ratio-Minimum-variance,Lasso-in-Finance&hide=CSS)](https://github.com/descartes100/github-readme-stats)
+### Web
+![Static Badge](https://img.shields.io/badge/mongoDB-darkgreen?logo=mongodb&logoColor=darkgreen&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-green?logo=tailwindcss&logoColor=green&labelColor=white)
+
+
+### Security
+![Static Badge](https://img.shields.io/badge/BurpSuite-orange?logo=burpsuite&logoColor=orange&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Interactive%20Disassembler-purple?logoColor=purple)
 
 
 
