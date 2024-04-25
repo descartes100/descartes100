@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=descartes100&theme=tokyonight)](https://git.io/streak-stats)
 
-### Programming languages:
+### Programming languages
 ![Static Badge](https://img.shields.io/badge/Solidity-brown?logo=solidity&logoColor=brown&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=yellow&labelColor=white)
