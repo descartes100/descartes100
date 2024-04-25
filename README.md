@@ -11,13 +11,13 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=yellow&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Typescript-%23007acc?logo=typescript&logoColor=%23007acc&labelColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-darkblue?logo=cplusplus&logoColor=darkblue&labelColor=white)
 
 ### Web
 ![Static Badge](https://img.shields.io/badge/mongoDB-darkgreen?logo=mongodb&logoColor=darkgreen&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-green?logo=tailwindcss&logoColor=green&labelColor=white)
-
 
 ### Security
 ![Static Badge](https://img.shields.io/badge/BurpSuite-orange?logo=burpsuite&logoColor=orange&labelColor=white)
