@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Learn+all+the+things+about+web3+and+security." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Crunching+numbers+by+day+,+crafting+DeFi+by+night." alt="Typing SVG" />
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=descartes100&theme=tokyonight)](https://git.io/streak-stats)
